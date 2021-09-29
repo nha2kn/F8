@@ -122,4 +122,7 @@
   .social-list {
     font-size: 1.2em;
   }
+  .btn {
+    padding: 12px 0;
+  }
 }
